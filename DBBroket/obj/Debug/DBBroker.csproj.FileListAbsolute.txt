@@ -1,0 +1,9 @@
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\bin\Debug\DBBroket.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\bin\Debug\DBBroket.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\bin\Debug\Common.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\bin\Debug\Common.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\obj\Debug\DBBroker.csproj.AssemblyReference.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\obj\Debug\DBBroker.csproj.CoreCompileInputs.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\obj\Debug\DBBroket.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\obj\Debug\DBBroket.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\DBBroket\obj\Debug\DBBroker.csproj.Up2Date

@@ -1,0 +1,6 @@
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Common\bin\Debug\Common.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Common\bin\Debug\Common.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Common\obj\Debug\Common.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Common\obj\Debug\Common.pdb

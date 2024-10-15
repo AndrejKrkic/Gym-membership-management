@@ -1,0 +1,15 @@
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\Seminarski Andrej Krkic 2020_0206.exe.config
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\Seminarski Andrej Krkic 2020_0206.exe
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\Seminarski Andrej Krkic 2020_0206.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Seminarski_Andrej_Krkic_2020_0206.Properties.Resources.resources
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Seminarski Andrej Krkic 2020_0206.exe
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Seminarski Andrej Krkic 2020_0206.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\Common.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\Common.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Seminarski_Andrej_Krkic_2020_0206.GlavnaEkranskaForma.resources
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\DBBroket.dll
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\bin\Debug\DBBroket.pdb
+C:\Faks\Projektovanje Softvera\Seminarski\Moj Seminarski Rad\Seminarski Andrej Krkic 2020_0206\Seminarski Andrej Krkic 2020_0206\obj\Debug\Server.csproj.Up2Date
